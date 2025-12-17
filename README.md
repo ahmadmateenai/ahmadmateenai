@@ -14,4 +14,6 @@ Based in Lahore, Pakistan. I build intelligent systems, explore AI, and love tur
 
 💡 I’m currently preparing for my first AI/ML job while building real-world projects that solve everyday problems in Pakistan.  
 🌱 Always learning, always experimenting.
+
+
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ahmadmateen) | [Portfolio](https://openahmadcv.netlify.app)
