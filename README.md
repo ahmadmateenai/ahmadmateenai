@@ -8,10 +8,6 @@ Based in Lahore, Pakistan. I build intelligent systems, explore AI, and love tur
 - **Tools & APIs:** ChatGPT, Gemini, Groq
 - **Other:** Web Development, Data Analysis
 
-  
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadmateen&show_icons=true&theme=radical)
-
-
 💡 I’m currently preparing for my first AI/ML job while building real-world projects that solve everyday problems in Pakistan.  
 🌱 Always learning, always experimenting.
 
